@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(150, 150, 252);
+    margin-inline-end: auto;
+    font-family: 'Agu Display', sans-serif;
+}
+a{
+    color: rgb(4, 225, 4);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(114, 114, 219);
+    text-decoration: none;
+}
+.links {
+    border: solid 3px black; 
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: rgb(136, 45, 220);
+    border-color: rgb(153, 255, 0);
+}
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+h3{
+    color: red;
+}
+.musiclinks{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+p{
+    color: rgb(14, 227, 14);
+}
+ul{
+    color: rgb(14, 227, 14);
+}
+.img{
+    display: inline-block;
+    vertical-align: top;
+}
+.img:hover{
+    transform: scale(1.1);
+    transition-duration: 0.3s;
+}

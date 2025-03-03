@@ -1,0 +1,18 @@
+*{
+    border: solid 3px black; 
+}
+body {
+    color: rgb(0, 255, 94);
+    background-color: rgb(27, 94, 240);
+}
+#section1{
+    color: black;
+}
+.section2{
+    font-size: 50pt;
+    color: #a7ce1a;
+    width: 700px   
+}
+p{
+    display: inline-block;
+}
